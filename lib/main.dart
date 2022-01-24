@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Email-Password Login - Firebase',
+        title: 'Email-Password Login - Using Firebase',
         theme: ThemeData(
           primarySwatch: Colors.deepPurple,
         ),
